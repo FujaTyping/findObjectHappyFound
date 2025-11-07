@@ -9,7 +9,7 @@ const notoSansThai = Noto_Sans_Thai({
 });
 
 export const metadata: Metadata = {
-  title: "HappyFound",
+  title: "HappyFound | ของหายได้คืน",
   description: "ระบบของหายได้คืนที่จะคืนความสุขให้คุณ",
 };
 

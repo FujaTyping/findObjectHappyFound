@@ -10,7 +10,7 @@ function Content() {
         <>
             <App theme='ios' className='flex items-center justify-center flex-col max-w-7xl mx-auto' >
                 <Block className='grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-22 w-full'>
-                    <Block className='mx-auto flex flex-col items-center justify-around '>
+                    <Block className='mx-auto flex flex-col items-center justify-center'>
                         <Hpf />
                     </Block>
                     <div className='order-first md:order-last flex items-center justify-center flex-col w-full'>
